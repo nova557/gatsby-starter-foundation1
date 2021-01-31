@@ -3,7 +3,7 @@ template: blog-post
 title: The Road to Good Code
 slug: the-road-to-good-code
 date: 2021-01-31 14:11
-description: Code Quality Tools in Web Devlopment
+description: Code Quality Tools in Web Development
 featuredImage: /assets/download.jpg
 ---
 Code Quality tools in Web Development are not only helpful, but essential in any CSS. First of all, Code Quality tools are important as it impacts the overall software quality. Good code is a clean and high quality code and a bad code would mean low quality.
