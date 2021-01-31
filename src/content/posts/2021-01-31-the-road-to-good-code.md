@@ -20,6 +20,6 @@ ReSharper is yet another code quality tool to help any Visual Studio user. ReSha
 
 This might sound like a funny name, but another code quality tool is Dirty Markup. Dirty Markup is one of the best because it cleans, formats, and validates your HTML, CSS, and Javascript codes. It gives you error messages and notifications in real time while you write your code. When you click the clean button, it gives you a warning so you can solve the problem.
 
-![](/assets/dirtymarkup2.jpg)
+![](/assets/dirtymarkup2.jpg "Dirty Markup")
 
 The real goal of having code quality tools is to check any trouble spots you may have. It also can help you improve your code. These 4 code quality tools are just a few of many that can help and support. These tools will help guide you to have the best codes and keep problems out while you are working hard to make sure your code works. As you write your code, having immediate feedback on any issues developing is so important. These were just a few of the code quality tools that will help you maintain good codes.
