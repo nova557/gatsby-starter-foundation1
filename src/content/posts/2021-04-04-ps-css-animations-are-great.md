@@ -4,7 +4,7 @@ title: PS CSS Animations Are Great!
 slug: css-animations
 date: 2021-04-04 16:58
 description: CSS Animations
-featuredImage: /assets/css-animation-time-of-day.gif
+featuredImage: /assets/rb642b5918e026cbb688c0fa3759a5cb9.jpg
 ---
 <!--StartFragment-->
 
