@@ -11,12 +11,10 @@ featuredImage: /assets/rb642b5918e026cbb688c0fa3759a5cb9.jpg
 Everyone has their own way of coding something. They use different tools, different resources, and have their own ideas on what they want to create. I have found that CSS Animations can be a great way to do just that and can help learn to do better with your coding.
 
 <figure>
-
     <iframe height="265" style="width: 100%;" scrolling="no" title="Animated text fill" src="https://codepen.io/nova557/embed/KKaNoXg?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
         See the Pen <a href='https://codepen.io/nova557/pen/KKaNoXg'>Animated text fill</a> by nova557
         (<a href='https://codepen.io/nova557'>@nova557</a>) on <a href='https://codepen.io'>CodePen</a>.
       </iframe>
-
       <figcaption>Inspired by https://codepen.io/zitrusfrisch/pen/fjbal</figcaption>
 
 </figure>
